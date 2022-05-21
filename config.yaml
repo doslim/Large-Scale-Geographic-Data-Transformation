@@ -1,0 +1,10 @@
+group_path: './data_group.csv'
+log_path: './data/logs'
+ak_path: './key.xls'
+file_path: './data/new_data'
+error_path: './data/error_info'
+target_path: './data/transformed_data'
+
+group_id: 9
+split_id: 12
+key_id: 10
