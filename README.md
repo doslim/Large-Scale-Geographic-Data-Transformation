@@ -5,7 +5,7 @@ In this repository, we provide a solution to transform large scale geographic da
 Our task is to query the  corresponding GPS corrdinates of addresses from different provinces in China. The original data are around 50M and stored in 31 files with different length. Since each individual account can only call the API no more than 300K times, we design a plan to finish this task within a reasonable time. More details can be found in our brief report.
 
 ## Data
-The data used in this project is extracted from a database about Chinese enterprises. We do not provide the raw data due to the privacy concerns. But our plan can be adapted to other scenarios that require a lot of transformation.
+The data used in this project is extracted from a database about Chinese enterprises. We do not provide the raw data due to the privacy concerns. But our plan can be adapted to other scenarios that require a lot of transformations.
 
 ## Project Structure and Environments
 
