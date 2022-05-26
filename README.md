@@ -14,7 +14,7 @@ All codes are written in Python 3.8 . No special packages are needed.
 The structure of our project is as follows.
 - main.py: the entrance of our codes.
 - utils.py: define several tools to load the data and the core function to call the API.
-- data\_split.ipynb: group and segment the data.
+- data\_split\_merge.ipynb: group, segment the data and merge data after transformation.
 - config.yaml: store the configurations.
 - main.sh: the script to run the code.
 - data: contain all the data (empty due to privacy concerns)
