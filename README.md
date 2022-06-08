@@ -1,5 +1,7 @@
 # Large Scale Geographic Data Transformation
 
+![](https://visitor-badge.glitch.me/badge?page_id=Doslim.Large-Scale-Geographic-Data-Transformation)
+
 In this repository, we provide a solution to transform large scale geographic data based on the [Geoencoding API](https://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-geocoding) provided by Baidu Map. 
 
 Our task is to query the  corresponding GPS corrdinates of addresses from different provinces in China. The original data are around 50M and stored in 31 files with different length. Since each individual account can only call the API no more than 300K times, we design a plan to finish this task within a reasonable time. More details can be found in our brief report.
